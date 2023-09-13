@@ -1,0 +1,14 @@
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1041\bin\Debug\net7.0\Exec1041.exe
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1041\bin\Debug\net7.0\Exec1041.deps.json
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1041\bin\Debug\net7.0\Exec1041.runtimeconfig.json
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1041\bin\Debug\net7.0\Exec1041.dll
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1041\bin\Debug\net7.0\Exec1041.pdb
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1041\obj\Debug\net7.0\Exec1041.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1041\obj\Debug\net7.0\Exec1041.AssemblyInfoInputs.cache
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1041\obj\Debug\net7.0\Exec1041.AssemblyInfo.cs
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1041\obj\Debug\net7.0\Exec1041.csproj.CoreCompileInputs.cache
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1041\obj\Debug\net7.0\Exec1041.dll
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1041\obj\Debug\net7.0\refint\Exec1041.dll
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1041\obj\Debug\net7.0\Exec1041.pdb
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1041\obj\Debug\net7.0\Exec1041.genruntimeconfig.cache
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1041\obj\Debug\net7.0\ref\Exec1041.dll
