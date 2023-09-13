@@ -2,7 +2,7 @@
 using System.Globalization;
 
 namespace Name{
-    class Program{
+    class Program {
         static void Main(string[] args){
 
             double n1, n2, n3, n4, n5, media;
