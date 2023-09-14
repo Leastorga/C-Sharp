@@ -29,8 +29,7 @@ namespace uri1118 {
                     Console.WriteLine("novo calculo (1-sim 2-nao)");
                     novoCalculo = int.Parse(Console.ReadLine());
                 }
-                Console
-                
+                            
             }
         }
     }
