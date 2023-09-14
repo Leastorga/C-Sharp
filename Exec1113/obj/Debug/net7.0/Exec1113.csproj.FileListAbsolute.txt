@@ -1,0 +1,14 @@
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1113\obj\Debug\net7.0\Exec1113.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1113\obj\Debug\net7.0\Exec1113.AssemblyInfoInputs.cache
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1113\obj\Debug\net7.0\Exec1113.AssemblyInfo.cs
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1113\obj\Debug\net7.0\Exec1113.csproj.CoreCompileInputs.cache
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1113\bin\Debug\net7.0\Exec1113.exe
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1113\bin\Debug\net7.0\Exec1113.deps.json
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1113\bin\Debug\net7.0\Exec1113.runtimeconfig.json
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1113\bin\Debug\net7.0\Exec1113.dll
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1113\bin\Debug\net7.0\Exec1113.pdb
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1113\obj\Debug\net7.0\Exec1113.dll
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1113\obj\Debug\net7.0\refint\Exec1113.dll
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1113\obj\Debug\net7.0\Exec1113.pdb
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1113\obj\Debug\net7.0\Exec1113.genruntimeconfig.cache
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1113\obj\Debug\net7.0\ref\Exec1113.dll
