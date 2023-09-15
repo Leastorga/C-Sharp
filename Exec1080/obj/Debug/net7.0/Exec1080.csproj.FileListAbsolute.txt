@@ -1,0 +1,14 @@
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1080\bin\Debug\net7.0\Exec1080.exe
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1080\bin\Debug\net7.0\Exec1080.deps.json
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1080\bin\Debug\net7.0\Exec1080.runtimeconfig.json
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1080\bin\Debug\net7.0\Exec1080.dll
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1080\bin\Debug\net7.0\Exec1080.pdb
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1080\obj\Debug\net7.0\Exec1080.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1080\obj\Debug\net7.0\Exec1080.AssemblyInfoInputs.cache
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1080\obj\Debug\net7.0\Exec1080.AssemblyInfo.cs
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1080\obj\Debug\net7.0\Exec1080.csproj.CoreCompileInputs.cache
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1080\obj\Debug\net7.0\Exec1080.dll
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1080\obj\Debug\net7.0\refint\Exec1080.dll
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1080\obj\Debug\net7.0\Exec1080.pdb
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1080\obj\Debug\net7.0\Exec1080.genruntimeconfig.cache
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1080\obj\Debug\net7.0\ref\Exec1080.dll
