@@ -7,13 +7,12 @@
             int N, multiplicacao, numero;
 
             N = int.Parse(Console.ReadLine());
-            numero = 1;
+            
 
-            for (int i = 0; i <= 9; i++)
+            for (int i = 1; i <= 10; i++)
             {
-                multiplicacao = numero * N;
-                Console.WriteLine(numero + " x " + N + " = " + multiplicacao);
-                numero += 1;                
+                multiplicacao = i * N;
+                Console.WriteLine(i + " x " + N + " = " + multiplicacao);             
             }
         }
     }
