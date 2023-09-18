@@ -1,0 +1,14 @@
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1144\bin\Debug\net7.0\Exec1144.exe
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1144\bin\Debug\net7.0\Exec1144.deps.json
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1144\bin\Debug\net7.0\Exec1144.runtimeconfig.json
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1144\bin\Debug\net7.0\Exec1144.dll
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1144\bin\Debug\net7.0\Exec1144.pdb
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1144\obj\Debug\net7.0\Exec1144.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1144\obj\Debug\net7.0\Exec1144.AssemblyInfoInputs.cache
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1144\obj\Debug\net7.0\Exec1144.AssemblyInfo.cs
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1144\obj\Debug\net7.0\Exec1144.csproj.CoreCompileInputs.cache
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1144\obj\Debug\net7.0\Exec1144.dll
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1144\obj\Debug\net7.0\refint\Exec1144.dll
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1144\obj\Debug\net7.0\Exec1144.pdb
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1144\obj\Debug\net7.0\Exec1144.genruntimeconfig.cache
+C:\Users\97525\Desktop\C#\Beecrowd\Exec1144\obj\Debug\net7.0\ref\Exec1144.dll
