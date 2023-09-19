@@ -1,0 +1,14 @@
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor5\bin\Debug\net7.0\Vetor5.exe
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor5\bin\Debug\net7.0\Vetor5.deps.json
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor5\bin\Debug\net7.0\Vetor5.runtimeconfig.json
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor5\bin\Debug\net7.0\Vetor5.dll
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor5\bin\Debug\net7.0\Vetor5.pdb
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor5\obj\Debug\net7.0\Vetor5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor5\obj\Debug\net7.0\Vetor5.AssemblyInfoInputs.cache
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor5\obj\Debug\net7.0\Vetor5.AssemblyInfo.cs
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor5\obj\Debug\net7.0\Vetor5.csproj.CoreCompileInputs.cache
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor5\obj\Debug\net7.0\Vetor5.dll
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor5\obj\Debug\net7.0\refint\Vetor5.dll
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor5\obj\Debug\net7.0\Vetor5.pdb
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor5\obj\Debug\net7.0\Vetor5.genruntimeconfig.cache
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor5\obj\Debug\net7.0\ref\Vetor5.dll
