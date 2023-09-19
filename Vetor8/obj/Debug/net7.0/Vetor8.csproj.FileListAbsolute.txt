@@ -1,0 +1,14 @@
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor8\bin\Debug\net7.0\Vetor8.exe
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor8\bin\Debug\net7.0\Vetor8.deps.json
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor8\bin\Debug\net7.0\Vetor8.runtimeconfig.json
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor8\bin\Debug\net7.0\Vetor8.dll
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor8\bin\Debug\net7.0\Vetor8.pdb
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor8\obj\Debug\net7.0\Vetor8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor8\obj\Debug\net7.0\Vetor8.AssemblyInfoInputs.cache
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor8\obj\Debug\net7.0\Vetor8.AssemblyInfo.cs
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor8\obj\Debug\net7.0\Vetor8.csproj.CoreCompileInputs.cache
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor8\obj\Debug\net7.0\Vetor8.dll
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor8\obj\Debug\net7.0\refint\Vetor8.dll
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor8\obj\Debug\net7.0\Vetor8.pdb
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor8\obj\Debug\net7.0\Vetor8.genruntimeconfig.cache
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor8\obj\Debug\net7.0\ref\Vetor8.dll
