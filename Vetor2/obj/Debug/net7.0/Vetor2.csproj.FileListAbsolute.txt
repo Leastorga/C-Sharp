@@ -1,0 +1,14 @@
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor2\bin\Debug\net7.0\Vetor2.exe
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor2\bin\Debug\net7.0\Vetor2.deps.json
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor2\bin\Debug\net7.0\Vetor2.runtimeconfig.json
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor2\bin\Debug\net7.0\Vetor2.dll
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor2\bin\Debug\net7.0\Vetor2.pdb
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor2\obj\Debug\net7.0\Vetor2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor2\obj\Debug\net7.0\Vetor2.AssemblyInfoInputs.cache
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor2\obj\Debug\net7.0\Vetor2.AssemblyInfo.cs
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor2\obj\Debug\net7.0\Vetor2.csproj.CoreCompileInputs.cache
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor2\obj\Debug\net7.0\Vetor2.dll
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor2\obj\Debug\net7.0\refint\Vetor2.dll
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor2\obj\Debug\net7.0\Vetor2.pdb
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor2\obj\Debug\net7.0\Vetor2.genruntimeconfig.cache
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor2\obj\Debug\net7.0\ref\Vetor2.dll
