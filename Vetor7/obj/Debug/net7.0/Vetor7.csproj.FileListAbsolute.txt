@@ -1,0 +1,14 @@
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor7\obj\Debug\net7.0\Vetor7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor7\obj\Debug\net7.0\Vetor7.AssemblyInfoInputs.cache
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor7\obj\Debug\net7.0\Vetor7.AssemblyInfo.cs
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor7\obj\Debug\net7.0\Vetor7.csproj.CoreCompileInputs.cache
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor7\bin\Debug\net7.0\Vetor7.exe
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor7\bin\Debug\net7.0\Vetor7.deps.json
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor7\bin\Debug\net7.0\Vetor7.runtimeconfig.json
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor7\bin\Debug\net7.0\Vetor7.dll
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor7\bin\Debug\net7.0\Vetor7.pdb
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor7\obj\Debug\net7.0\Vetor7.dll
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor7\obj\Debug\net7.0\refint\Vetor7.dll
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor7\obj\Debug\net7.0\Vetor7.pdb
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor7\obj\Debug\net7.0\Vetor7.genruntimeconfig.cache
+C:\Users\97525\Desktop\C#\Beecrowd\Vetor7\obj\Debug\net7.0\ref\Vetor7.dll
