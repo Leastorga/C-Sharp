@@ -1,0 +1,14 @@
+C:\Users\97525\Desktop\C#\Beecrowd\VetorResolvido2\bin\Debug\net7.0\VetorResolvido2.exe
+C:\Users\97525\Desktop\C#\Beecrowd\VetorResolvido2\bin\Debug\net7.0\VetorResolvido2.deps.json
+C:\Users\97525\Desktop\C#\Beecrowd\VetorResolvido2\bin\Debug\net7.0\VetorResolvido2.runtimeconfig.json
+C:\Users\97525\Desktop\C#\Beecrowd\VetorResolvido2\bin\Debug\net7.0\VetorResolvido2.dll
+C:\Users\97525\Desktop\C#\Beecrowd\VetorResolvido2\bin\Debug\net7.0\VetorResolvido2.pdb
+C:\Users\97525\Desktop\C#\Beecrowd\VetorResolvido2\obj\Debug\net7.0\VetorResolvido2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97525\Desktop\C#\Beecrowd\VetorResolvido2\obj\Debug\net7.0\VetorResolvido2.AssemblyInfoInputs.cache
+C:\Users\97525\Desktop\C#\Beecrowd\VetorResolvido2\obj\Debug\net7.0\VetorResolvido2.AssemblyInfo.cs
+C:\Users\97525\Desktop\C#\Beecrowd\VetorResolvido2\obj\Debug\net7.0\VetorResolvido2.csproj.CoreCompileInputs.cache
+C:\Users\97525\Desktop\C#\Beecrowd\VetorResolvido2\obj\Debug\net7.0\VetorResolvido2.dll
+C:\Users\97525\Desktop\C#\Beecrowd\VetorResolvido2\obj\Debug\net7.0\refint\VetorResolvido2.dll
+C:\Users\97525\Desktop\C#\Beecrowd\VetorResolvido2\obj\Debug\net7.0\VetorResolvido2.pdb
+C:\Users\97525\Desktop\C#\Beecrowd\VetorResolvido2\obj\Debug\net7.0\VetorResolvido2.genruntimeconfig.cache
+C:\Users\97525\Desktop\C#\Beecrowd\VetorResolvido2\obj\Debug\net7.0\ref\VetorResolvido2.dll
