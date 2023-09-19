@@ -27,7 +27,6 @@
                 }
             }
             Console.WriteLine("Pessoas mais velha: " + nome[contador]);
-
         }
     }
 }
