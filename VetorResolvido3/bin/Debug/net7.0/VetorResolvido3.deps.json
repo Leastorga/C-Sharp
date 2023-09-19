@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "VetorResolvido3/1.0.0": {
+        "runtime": {
+          "VetorResolvido3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VetorResolvido3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
