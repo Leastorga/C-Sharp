@@ -1,0 +1,14 @@
+C:\Users\97525\Desktop\C#\Beecrowd\MatrizResolvido2\bin\Debug\net7.0\MatrizResolvido2.exe
+C:\Users\97525\Desktop\C#\Beecrowd\MatrizResolvido2\bin\Debug\net7.0\MatrizResolvido2.deps.json
+C:\Users\97525\Desktop\C#\Beecrowd\MatrizResolvido2\bin\Debug\net7.0\MatrizResolvido2.runtimeconfig.json
+C:\Users\97525\Desktop\C#\Beecrowd\MatrizResolvido2\bin\Debug\net7.0\MatrizResolvido2.dll
+C:\Users\97525\Desktop\C#\Beecrowd\MatrizResolvido2\bin\Debug\net7.0\MatrizResolvido2.pdb
+C:\Users\97525\Desktop\C#\Beecrowd\MatrizResolvido2\obj\Debug\net7.0\MatrizResolvido2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97525\Desktop\C#\Beecrowd\MatrizResolvido2\obj\Debug\net7.0\MatrizResolvido2.AssemblyInfoInputs.cache
+C:\Users\97525\Desktop\C#\Beecrowd\MatrizResolvido2\obj\Debug\net7.0\MatrizResolvido2.AssemblyInfo.cs
+C:\Users\97525\Desktop\C#\Beecrowd\MatrizResolvido2\obj\Debug\net7.0\MatrizResolvido2.csproj.CoreCompileInputs.cache
+C:\Users\97525\Desktop\C#\Beecrowd\MatrizResolvido2\obj\Debug\net7.0\MatrizResolvido2.dll
+C:\Users\97525\Desktop\C#\Beecrowd\MatrizResolvido2\obj\Debug\net7.0\refint\MatrizResolvido2.dll
+C:\Users\97525\Desktop\C#\Beecrowd\MatrizResolvido2\obj\Debug\net7.0\MatrizResolvido2.pdb
+C:\Users\97525\Desktop\C#\Beecrowd\MatrizResolvido2\obj\Debug\net7.0\MatrizResolvido2.genruntimeconfig.cache
+C:\Users\97525\Desktop\C#\Beecrowd\MatrizResolvido2\obj\Debug\net7.0\ref\MatrizResolvido2.dll
