@@ -1,0 +1,14 @@
+C:\Users\97525\Desktop\C#\Beecrowd\Matriz2\bin\Debug\net7.0\Matriz2.exe
+C:\Users\97525\Desktop\C#\Beecrowd\Matriz2\bin\Debug\net7.0\Matriz2.deps.json
+C:\Users\97525\Desktop\C#\Beecrowd\Matriz2\bin\Debug\net7.0\Matriz2.runtimeconfig.json
+C:\Users\97525\Desktop\C#\Beecrowd\Matriz2\bin\Debug\net7.0\Matriz2.dll
+C:\Users\97525\Desktop\C#\Beecrowd\Matriz2\bin\Debug\net7.0\Matriz2.pdb
+C:\Users\97525\Desktop\C#\Beecrowd\Matriz2\obj\Debug\net7.0\Matriz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97525\Desktop\C#\Beecrowd\Matriz2\obj\Debug\net7.0\Matriz2.AssemblyInfoInputs.cache
+C:\Users\97525\Desktop\C#\Beecrowd\Matriz2\obj\Debug\net7.0\Matriz2.AssemblyInfo.cs
+C:\Users\97525\Desktop\C#\Beecrowd\Matriz2\obj\Debug\net7.0\Matriz2.csproj.CoreCompileInputs.cache
+C:\Users\97525\Desktop\C#\Beecrowd\Matriz2\obj\Debug\net7.0\Matriz2.dll
+C:\Users\97525\Desktop\C#\Beecrowd\Matriz2\obj\Debug\net7.0\refint\Matriz2.dll
+C:\Users\97525\Desktop\C#\Beecrowd\Matriz2\obj\Debug\net7.0\Matriz2.pdb
+C:\Users\97525\Desktop\C#\Beecrowd\Matriz2\obj\Debug\net7.0\Matriz2.genruntimeconfig.cache
+C:\Users\97525\Desktop\C#\Beecrowd\Matriz2\obj\Debug\net7.0\ref\Matriz2.dll
